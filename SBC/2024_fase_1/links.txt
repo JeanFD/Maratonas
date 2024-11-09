@@ -1,0 +1,3 @@
+https://codeforces.com/gym/105327
+F - Algoritmo de euclides
+H - resto de numeros binarios
