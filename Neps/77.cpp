@@ -13,11 +13,13 @@ const int INF = 0x3f3f3f3f;
 const ll LINF = 0x3f3f3f3f3f3f3f3fll;
 
 int main(){ _
-    freopen("in.txt", "r", stdin);
-    cout<<"-----------------APAGA O FREOPEN-----------------"<<endl;
-    freopen("out.txt","w", stdout);
+    // freopen("in.txt", "r", stdin);
+    // cout<<"-----------------APAGA O FREOPEN-----------------"<<endl;
+    // freopen("out.txt","w", stdout);
 
-    
+    int A,B,C;
+    cin>>A>>B>>C;
+    cout<<(int)(A+B)/C<<endl;    
 
     return 0;
 }
